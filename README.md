@@ -1,5 +1,3 @@
-# Portfolio page, practice example
+# Portfolio page coming up
 
-## From the course Front End development at Skillcrush
-
-### Made with HTML, CSS
+## Made with HTML, CSS
