@@ -176,6 +176,7 @@ header h2 span {
 
 #contact ul {
     list-style: none;
+    text-align: center;
 }
 #contact ul li {
      display: inline-block;
