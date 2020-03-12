@@ -48,16 +48,17 @@ nav {
     padding: 75px 25px;
 }
 
-nav ul li{
+nav ul li {
     display: inline-block;
 }
 
 nav ul li a {
     color: #a5a5a5;
     font-size: 18px;
-    padding-left: 80px; 
+    padding-left: 50px; 
     text-transform: uppercase;
     text-decoration: none;
+    list-style-type: none;
 }
 
 header h2 {
